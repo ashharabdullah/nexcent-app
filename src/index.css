@@ -1,0 +1,136 @@
+.bg-main {
+  background-color: #f5f7fa;
+}
+
+.bg-footer {
+  background-color: #263238;
+}
+
+.silver {
+  color: #f5f7fa;
+}
+
+.green {
+  color: #4caf4f;
+}
+
+.d-grey {
+  color: #4d4d4d;
+}
+
+.l-grey {
+  color: #89939e;
+}
+
+.grey {
+  color: #717171;
+}
+
+.dark {
+  color: #18191f;
+}
+
+.black {
+  color: #263238;
+}
+
+.navbar ul li a {
+  color: #18191f !important;
+}
+
+.navbar ul li a:hover {
+  color: #4caf4f !important;
+}
+
+.custom-card {
+ 
+  box-shadow: 0px 8px 16px 0px #abbed166;
+}
+
+.custom-card h4 {
+  font-size: 20px;
+}
+
+.btn-signup {
+  width: 90px;
+  height: 40px;
+  background: #4caf4f;
+  border-radius: 6px;
+}
+
+.btn-login {
+  width: 78px;
+  height: 40px;
+  background: #f5f7fa;
+  color: #4caf4f;
+  border-radius: 6px;
+}
+
+.btn-register {
+  width: 127px;
+  height: 50px;
+  background: #4caf4f;
+  border-radius: 5px;
+}
+
+.btn-learn {
+  width: 150px;
+  height: 50px;
+  background: #4caf4f;
+  border-radius: 5px;
+}
+
+.btn-demo {
+  width: 180px;
+  height: 50px;
+  background: #4caf4f;
+  border-radius: 5px;
+}
+
+.input-email {
+  height: 40px;
+  border: none;
+  outline: none;
+  color: #ffffff;
+  background: #595a5e;
+  border-radius: 8px;
+  padding-right: 2.5rem;
+}
+
+::placeholder,
+.text-silver {
+  color: #d9dbe1;
+}
+
+@media (max-width: 1200px) and (min-width: 768px) {
+  .custom-lg-3 {
+    flex: 0 0 auto;
+    width: 30%;
+  }
+}
+
+@media (max-width: 576px) {
+  .custom-lg-3 {
+    margin: 4rem 0;
+
+    width: 18rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .custom-card h4 {
+    font-size: 0.8rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .w-md-75 {
+    width: 75% !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .w-md-50 {
+    width: 50% !important;
+  }
+}
