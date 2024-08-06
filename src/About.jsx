@@ -20,7 +20,7 @@ export const About = () => {
       <div class="container">
         <section class="about">
           <div class="about-image">
-            <img src="./src/assets/pics/about.png " />
+            <img src="./src/about.png " />
           </div>
           <div className="about-content">
             <h2>About Our Team</h2>

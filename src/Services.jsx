@@ -14,7 +14,7 @@ export const Services = () => {
       <div class="row mb-5">
         <div class="col-12 col-sm-6 col-md-3 m-auto">
           <div class="card shadow">
-            <img src="./src/assets/pics/service.png" alt="" class="card-img-top"/>
+            <img src="./src/service.png" alt="" class="card-img-top"/>
             <div class="card-body">
               <h3 class="text-center">Web Development</h3>
               <hr class="mx-auto w-75" />
@@ -29,7 +29,7 @@ export const Services = () => {
 
         <div class="col-12 col-sm-6 col-md-3 m-auto">
           <div class="card shadow">
-            <img src="./src/assets/pics/services1.png" alt="" class="card-img-top"/>
+            <img src="./src/services1.png" alt="" class="card-img-top"/>
             <div class="card-body">
               <h3 class="text-center">App Development</h3>
               <hr class="mx-auto w-75" />
@@ -44,7 +44,7 @@ export const Services = () => {
 
         <div class="col-12 col-sm-6 col-md-3 m-auto">
           <div class="card shadow">
-            <img src="./src/assets/pics/services2.png" alt="" class="card-img-top"/>
+            <img src="./src/services2.png" alt="" class="card-img-top"/>
             <div class="card-body">
               <h3 class="text-center">Digital Marketing</h3>
               <hr class="mx-auto w-75" />
@@ -59,7 +59,7 @@ export const Services = () => {
 
         <div class="col-12 col-sm-6 col-md-3 m-auto">
           <div class="card shadow">
-            <img src="./src/assets/pics/services3.png" alt="" class="card-img-top"/>
+            <img src="./src/services3.png" alt="" class="card-img-top"/>
             <div class="card-body">
               <h3 class="text-center">Email Marketing</h3>
               <hr class="mx-auto w-75" />
